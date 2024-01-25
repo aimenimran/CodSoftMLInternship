@@ -13,11 +13,11 @@ Welcome to the repository for the machine learning internship tasks completed by
         - Note: The train dataset is to be converted from xlsx to csv before using. It was uploaded as xlsx due to large size.
 
 
-2. Handwritten Character Recognition:
-   The second task involved building a model for recognizing handwritten characters. The code for this task is stored in the handwritten_character_recognition directory. Important files are:
+2. Movie Genre Prediction:
+   The second task involved building a model for predicting movie genres. The code for this task is stored in the movie_genre_prediction directory. Important files are:
    
-    - handwritten_character_recognition.ipynb: Jupyter Notebook with code for preprocessing, model training, and character recognition.
-    - data/: Folder containing the dataset used to train and validate the handwritten character recognition model.
+    - movie_genre_prediction.ipynb: Jupyter Notebook with code for preprocessing, model training, and prediction.
+    - data/: Folder containing link to the dataset used to train and validate the hagenre prediction model.
   
 3. SMS Spam Detection:
    The third task uses machine learning to train a spam detector to recognize and classify messages into spam and non-spam.  The code for this task is stored in the sms_spam_detection directory. Important files are:
